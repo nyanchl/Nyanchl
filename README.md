@@ -1,1 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanchl&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanchl&layout=compact&theme=onedark)](https://github.com/Nyanchl/github-readme-stats)
+![Nyanchl](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nyanchl&theme=github_dark)
+![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nyanchl&theme=github_dark)
+![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nyanchl&theme=github_dark&utcOffset=8)
+![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nyanchl&theme=github_dark&exclude={exclude})
+![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nyanchl&theme=github_dark&exclude=exclude)
